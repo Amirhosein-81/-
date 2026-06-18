@@ -1,0 +1,6 @@
+{
+  "name": "Streets of Rage",
+  "description": "Retro Sega streets of rage beat-em-up game with stunning visual effects, interactive 2.5D combat, classic character select, and nostalgic sound elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
